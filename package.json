@@ -1,4 +1,10 @@
 {
+  "name": "dynamooose-nodejs-example",
+  "version": "1.0.0",
+  "description": "An example repo for implementing Dynamoose in NodeJS.",
+  "main": "index.js",
+  "author": "Siddharth Sathe",
+  "license": "MIT",  
   "dependencies": {
     "dynamoose": "^3.1.0"
   },
