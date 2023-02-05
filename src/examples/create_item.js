@@ -17,7 +17,7 @@ const createUser = new User(registerUser);
  * @summary Insert an item in table.
  *
  * For devs from MySQL/PGSQL community:
- * `get(1)` is equivalent to
+ * `save` is equivalent to
  *    insert into user(name, email) values ('sid', 'sid@yahoo.com')
  *
  * @returns Saved item or error if any.
